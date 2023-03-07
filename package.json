@@ -1,0 +1,26 @@
+{
+  "name": "transmit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arfly/node-transmit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arfly/node-transmit/issues"
+  },
+  "homepage": "https://github.com/Arfly/node-transmit#readme",
+  "devDependencies": {
+    "http-proxy-middleware": "^2.0.6",
+    "koa": "^2.14.1",
+    "koa-mount": "^4.0.0",
+    "koa-static": "^5.0.0",
+    "koa2-connect": "^1.0.2"
+  }
+}
